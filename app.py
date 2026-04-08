@@ -7,9 +7,9 @@ st.subheader("Renewable Energy Management Portfolio")
 
 # Sidebar
 st.sidebar.title("👤 Student Info")
-st.sidebar.write("Name: Your Name")
+st.sidebar.write("Name: Riya Singh")
 st.sidebar.write("Course: REM")
-st.sidebar.write("College: Your College")
+st.sidebar.write("College: Vidyalankar Institute of Technology")
 
 # About
 st.header("📌 About Me")
