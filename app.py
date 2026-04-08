@@ -55,4 +55,4 @@ st.write("Learned renewable energy applications and importance of sustainability
 
 # Contact
 st.header("📞 Contact")
-st.write("Email: yourname@gmail.com")
+st.write("Email: riyaksingh2019@gmail.com")
